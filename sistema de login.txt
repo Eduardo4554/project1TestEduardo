@@ -1,7 +1,1 @@
 este é o sistema de login
-digite seu email:
-digite sua senha:
-digite sua idade:
-digite o nome da mãe:
-digite seu CPF:
-Sss
